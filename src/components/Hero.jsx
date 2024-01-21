@@ -3,6 +3,8 @@ import React from "react";
 const Hero = () => {
   return (
     <div className="hero-container container">
+      <a href="" className="registerBtn">Register</a>
+
       <div className="hero-text">
         <h1>Weather Dashboard</h1>
         <p>

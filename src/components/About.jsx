@@ -20,6 +20,7 @@ const About = () => {
         </p>
       </div>
       <img className="plant" src={Plant} alt="climbing plant" />
+      
     </div>
   );
 };
